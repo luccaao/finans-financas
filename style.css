@@ -1,0 +1,31 @@
+#home {
+    background: #ffc107;
+}
+
+#home-dark {
+    background: #302f2f;
+}
+
+.caixa {
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+#caixa-dark {
+    background: #383737;
+}
+
+#caixa-dark2 {
+    background: #302f2f;
+}
+
+
+
+footer p a {
+    margin: 5px 15px;
+}
+
+h4 {
+    text-align: center;
+}
+
